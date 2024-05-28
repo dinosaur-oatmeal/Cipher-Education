@@ -1,8 +1,8 @@
-# Cryptarch-Cipher-Program
+# Cipher Education
 
 Purpose:
 
-With the rise in the need for proper cybersecurity and with the adaptation of different ciphers over the years, Cryptarch has decided to develop its encoding program. Cryptarch ciphers utilize different classes and methods to develop encoded messages that cannot be easily deciphered using contextual measures, making your encrypted messages secure. Ciphers have existed for nearly two and a half millennia, dating back to when the Greeks utilized a code system to send messages without being interpreted by outsiders. For decades upon decades, these systems have become increasingly more popular as the stories of militaries using ciphers to outsmart their opponents reach popular culture, being shown in novels, the big screen, and even games. Now, storytellers all over the world are using encrypted messages to push their stories to create an interactive experience for their audience as well as individuals who want to communicate their thoughts in private through an encoded system. We were inspired by the countless years of success stories and pop-culture references to ciphers, so we will now present Cryptarch, a cipher-encoder and decoder targeted towards consumers.
+I worked with classmates to create a program to educate users on how common ciphers work. I was the programmer in the group and wrote all of the code for the project, while they wrote the documentation. The program is split up into a few different classes. There is a class for each individual cipher, a class for a text-based version of the program, and a class that solely runs the graphical user interface (GUI) of the program.
 
 Procedure:
 
